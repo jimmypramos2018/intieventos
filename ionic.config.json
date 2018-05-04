@@ -1,0 +1,8 @@
+{
+  "name": "intiEventos",
+  "app_id": "831b02bc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
